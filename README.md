@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/shivang-69/DSA-Practice/tree/master/0181-employees-earning-more-than-their-managers) |
 | [1045-customers-who-bought-all-products](https://github.com/shivang-69/DSA-Practice/tree/master/1045-customers-who-bought-all-products) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/shivang-69/DSA-Practice/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 ## Array
