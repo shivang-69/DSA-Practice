@@ -1,0 +1,62 @@
+
+#include<iostream>
+#include<vector>
+#include<climits>
+using namespace std;
+
+vector<int> solve(vector<int>&nums){
+    int n=nums.size();
+    int s=0;
+    int e=0;
+    int tempst=0;
+    int sum=0;
+    int maxsum=INT_MIN;
+    
+    for(int i=0;i<n;i++){
+        if(sum==0) tempst=i;
+        
+        sum+=nums[i];
+        
+        if(sum>maxsum){
+            maxsum=sum;
+            s=tempst;
+            e=i;
+            
+            
+        }
+        
+        if(sum<0) sum=0;
+    }
+    
+    
+    vector<int>ans;
+    for(int i=s;i<=e;i++) ans.push_back(nums[i]);
+    
+    
+    return ans;
+        
+        
+    }
+    
+    
+    
+
+int main(){
+    int n;
+    cin>>n;
+    vector<int>nums(n);
+    
+    for(int i=0;i<n;i++) cin>>nums[i];
+    
+       vector<int>a=solve(nums);
+       
+       for(int x:a) cout<<x<<" ";
+    
+    
+    
+    
+    
+    
+    
+    
+}
