@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivang-69/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shivang-69/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shivang-69/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0435-non-overlapping-intervals](https://github.com/shivang-69/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/shivang-69/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/shivang-69/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/shivang-69/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/shivang-69/DSA-Practice/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/shivang-69/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/shivang-69/DSA-Practice/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/shivang-69/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shivang-69/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0435-non-overlapping-intervals](https://github.com/shivang-69/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 ## Counting
 |  |
 | ------- |
@@ -81,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shivang-69/DSA-Practice/tree/master/0054-spiral-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/shivang-69/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
