@@ -2,16 +2,11 @@ class Solution {
 public:
     bool rotateString(string s, string goal) {
 
-        for(int i=0;i<s.size();i++){
-            char c=s[0];
-            s.erase(0,1);
-            s.push_back(c);
+       if(s.size()!=goal.size()) return false;
 
-            if(s==goal) return true;
+       if((s+s).find(goal)!=string::npos) return true;
 
-        }
-
-        return false;
-        
+       return false;
     }
+    
 };
