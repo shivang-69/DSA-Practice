@@ -103,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shivang-69/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/shivang-69/DSA-Practice/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/shivang-69/DSA-Practice/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
