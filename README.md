@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/shivang-69/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivang-69/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shivang-69/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/shivang-69/DSA-Practice/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/shivang-69/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivang-69/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shivang-69/DSA-Practice/tree/master/0169-majority-element) |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/shivang-69/DSA-Practice/tree/master/0796-rotate-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/shivang-69/DSA-Practice/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
