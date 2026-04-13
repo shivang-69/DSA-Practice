@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/shivang-69/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/shivang-69/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shivang-69/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/shivang-69/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/shivang-69/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -83,11 +84,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shivang-69/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shivang-69/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/shivang-69/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
+| [0451-sort-characters-by-frequency](https://github.com/shivang-69/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivang-69/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shivang-69/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/shivang-69/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 ## Matrix
 |  |
 | ------- |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shivang-69/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shivang-69/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shivang-69/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/shivang-69/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/shivang-69/DSA-Practice/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/shivang-69/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivang-69/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -138,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/shivang-69/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivang-69/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shivang-69/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shivang-69/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
