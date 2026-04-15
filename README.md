@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shivang-69/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/shivang-69/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shivang-69/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shivang-69/DSA-Practice/tree/master/0169-majority-element) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shivang-69/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/shivang-69/DSA-Practice/tree/master/0048-rotate-image) |
 ## Simulation
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/shivang-69/DSA-Practice/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/shivang-69/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/shivang-69/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/shivang-69/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shivang-69/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
