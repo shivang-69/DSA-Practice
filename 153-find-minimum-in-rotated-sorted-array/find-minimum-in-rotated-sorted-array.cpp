@@ -15,10 +15,9 @@ public:
             else r=mid;
         }
 
-        for(int i=0;i<n;i++){
-            if(i==l) return nums[l];
-        }
-         return 0;
+         return nums[l];
+        
+         
 
 
         
