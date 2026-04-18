@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/shivang-69/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/shivang-69/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/shivang-69/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/shivang-69/DSA-Practice/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivang-69/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivang-69/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/shivang-69/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/shivang-69/DSA-Practice/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
