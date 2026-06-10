@@ -3,36 +3,41 @@ public:
     int maxSatisfied(vector<int>& customers, vector<int>& grumpy, int minutes) {
 
         int n=customers.size();
+        int ans=0;
 
-        int sum=0;
-
-        for(int i=0;i<n;i++){
-            if(grumpy[i]==0) sum+=customers[i];
+        for(int i=0;i<n;i++){ 
+            if(grumpy[i]==0) ans+=customers[i];
         }
 
-        int curr=0;
-        int maxs=0;
+
+        int extra=0;
 
         for(int i=0;i<minutes;i++){
-            if(grumpy[i]==1) curr+=customers[i];           
+            if(grumpy[i]==1) extra+=customers[i];
+
         }
 
-        maxs=curr;
+        int maxi=extra;
 
         int i=0;
         int j=minutes;
 
         while(j<n){
-            if(grumpy[j]==1) curr+=customers[j];   
-            if(grumpy[i]==1) curr-=customers[i];   
-
-            maxs=max(curr,maxs);
-
+            if(grumpy[i]==1) extra-=customers[i];
             i++;
+            if(grumpy[j]==1) extra+=customers[j];
             j++;
+
+            maxi=max(extra,maxi);
         }
 
-        return sum+maxs;
+        ans+=maxi;
 
-    } 
+        return ans;
+
+        
+
+        
+        
+    }
 };
