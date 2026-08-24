@@ -1,16 +1,17 @@
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
+
         int m=matrix.size();
         int n=matrix[0].size();
 
         bool firstr=false;
         bool firstc=false;
 
+
         for(int i=0;i<m;i++){
             if(matrix[i][0]==0) firstc=true;
         }
-        
 
         for(int j=0;j<n;j++){
             if(matrix[0][j]==0) firstr=true;
@@ -26,12 +27,13 @@ public:
             }
         }
 
+
         for(int i=1;i<m;i++){
             for(int j=1;j<n;j++){
-                if(matrix[i][0]==0 || matrix[0][j]==0)  matrix[i][j]=0;
-                     
+                if(matrix[i][0]==0 || matrix[0][j]==0) matrix[i][j]=0;
             }
         }
+
 
         if(firstr==true){
             for(int j=0;j<n;j++) matrix[0][j]=0;
@@ -40,6 +42,6 @@ public:
         if(firstc==true){
             for(int i=0;i<m;i++) matrix[i][0]=0;
         }
-
+        
     }
 };
