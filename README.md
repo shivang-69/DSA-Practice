@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shivang-69/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shivang-69/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/shivang-69/DSA-Practice/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/shivang-69/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shivang-69/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shivang-69/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/shivang-69/DSA-Practice/tree/master/0056-merge-intervals) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivang-69/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/shivang-69/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shivang-69/DSA-Practice/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/shivang-69/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/shivang-69/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shivang-69/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shivang-69/DSA-Practice/tree/master/0169-majority-element) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/shivang-69/DSA-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shivang-69/DSA-Practice/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/shivang-69/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/shivang-69/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/shivang-69/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivang-69/DSA-Practice/tree/master/0088-merge-sorted-array) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/shivang-69/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shivang-69/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shivang-69/DSA-Practice/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/shivang-69/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/shivang-69/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shivang-69/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shivang-69/DSA-Practice/tree/master/0205-isomorphic-strings) |
