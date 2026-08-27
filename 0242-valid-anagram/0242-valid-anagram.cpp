@@ -2,24 +2,23 @@ class Solution {
 public:
     bool isAnagram(string s, string t) {
 
+
+        if(s.size()!=t.size()) return false;  
+
         unordered_map<char,int>mp;
-        int n=s.size();
 
-        if(s.size()!=t.size()) return false;
-
-        for(int i=0;i<n;i++) mp[s[i]]++;
-
-        for(int i=0;i<n;i++){
-            if(mp.find(t[i])==mp.end() || mp[t[i]]==0) return false;
-            else mp[t[i]]--;
-           
-
-        }
-
-            return true; 
+        for(int i=0;i<s.size();i++){
+            mp[s[i]]++;
 
 
         }
+
+        for(int i=0;i<t.size();i++){
+            if(mp.find(t[i])==mp.end()|| mp[t[i]]==0) return false;
+            mp[t[i]]--;
+        }
+
+        return true;
         
-    
+    }
 };
