@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shivang-69/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/shivang-69/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/shivang-69/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/shivang-69/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/shivang-69/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/shivang-69/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivang-69/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shivang-69/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shivang-69/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shivang-69/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/shivang-69/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivang-69/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/shivang-69/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/shivang-69/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/shivang-69/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shivang-69/DSA-Practice/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/shivang-69/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shivang-69/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shivang-69/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shivang-69/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/shivang-69/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/shivang-69/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/shivang-69/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/shivang-69/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shivang-69/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/shivang-69/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shivang-69/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shivang-69/DSA-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Matrix
@@ -223,10 +228,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shivang-69/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shivang-69/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shivang-69/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shivang-69/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 ## Sliding Window
 |  |
@@ -244,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1922-count-good-numbers](https://github.com/shivang-69/DSA-Practice/tree/master/1922-count-good-numbers) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shivang-69/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
