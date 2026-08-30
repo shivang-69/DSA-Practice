@@ -19,7 +19,7 @@ public:
 
             maxf=max(maxf,mp[s[j]]);
 
-            while((j-i+1)-maxf>k){
+            if((j-i+1)-maxf>k){
                 mp[s[i]]--;
                 i++;
             }
