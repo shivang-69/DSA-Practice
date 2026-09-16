@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shivang-69/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shivang-69/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/shivang-69/DSA-Practice/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/shivang-69/DSA-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivang-69/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/shivang-69/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/shivang-69/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shivang-69/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shivang-69/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shivang-69/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shivang-69/DSA-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shivang-69/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivang-69/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/shivang-69/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivang-69/DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivang-69/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivang-69/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/shivang-69/DSA-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivang-69/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivang-69/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shivang-69/DSA-Practice/tree/master/0704-binary-search) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shivang-69/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shivang-69/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shivang-69/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shivang-69/DSA-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shivang-69/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/shivang-69/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/shivang-69/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shivang-69/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shivang-69/DSA-Practice/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shivang-69/DSA-Practice/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/shivang-69/DSA-Practice/tree/master/0268-missing-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivang-69/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/shivang-69/DSA-Practice/tree/master/1922-count-good-numbers) |
 ## Simulation
@@ -231,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shivang-69/DSA-Practice/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/shivang-69/DSA-Practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/shivang-69/DSA-Practice/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/shivang-69/DSA-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivang-69/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/shivang-69/DSA-Practice/tree/master/0338-counting-bits) |
 ## Trie
