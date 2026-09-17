@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shivang-69/DSA-Practice/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shivang-69/DSA-Practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shivang-69/DSA-Practice/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/shivang-69/DSA-Practice/tree/master/0371-sum-of-two-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivang-69/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/shivang-69/DSA-Practice/tree/master/1922-count-good-numbers) |
 ## Simulation
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shivang-69/DSA-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivang-69/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/shivang-69/DSA-Practice/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/shivang-69/DSA-Practice/tree/master/0371-sum-of-two-integers) |
 ## Trie
 |  |
 | ------- |
