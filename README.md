@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/shivang-69/DSA-Practice/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0197-rising-temperature](https://github.com/shivang-69/DSA-Practice/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/shivang-69/DSA-Practice/tree/master/0595-big-countries) |
 | [1045-customers-who-bought-all-products](https://github.com/shivang-69/DSA-Practice/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/shivang-69/DSA-Practice/tree/master/1068-product-sales-analysis-i) |
