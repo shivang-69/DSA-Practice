@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/shivang-69/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [1922-count-good-numbers](https://github.com/shivang-69/DSA-Practice/tree/master/1922-count-good-numbers) |
 ## Quickselect
 |  |
@@ -313,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivang-69/DSA-Practice/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/shivang-69/DSA-Practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
